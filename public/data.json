@@ -1,0 +1,30 @@
+{
+	"item_netfl":
+		[
+			{
+				"img_desktop"		: "assets/img/casinoP-desktop.jpg",
+				"img_movile"		: "assets/img/casinoP-movil.jpg",		
+				"title"		: "Title Serie 1",
+				"Descripcion"	: "Descripcion de serie"
+			},
+			{
+				"img_desktop"		: "assets/img/turkey-desktop.jpg",
+				"img_movile"		: "assets/img/turkey-movil.jpg",		
+				"title"		: "Title Serie 2",
+				"Descripcion"	: "Descripcion de serie"
+			},
+			{
+				"img_desktop"		: "assets/img/casinoP-desktop.jpg",
+				"img_movile"		: "assets/img/casinoP-movil.jpg",		
+				"title"		: "Title Serie 3",
+				"Descripcion"	: "Descripcion de serie"
+			},
+			{
+				"img_desktop"		: "assets/img/casinoP-desktop.jpg",
+				"img_movile"		: "assets/img/casinoP-movil.jpg",		
+				"title"		: "Title Serie 3",
+				"Descripcion"	: "Descripcion de serie"
+			}
+		]
+		
+}
